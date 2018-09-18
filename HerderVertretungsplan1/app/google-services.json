@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "452546240730",
+    "firebase_url": "https://herder-app.firebaseio.com",
+    "project_id": "herder-app",
+    "storage_bucket": "herder-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452546240730:android:41fc90b6042f05b9",
+        "android_client_info": {
+          "package_name": "tv.lksbrm.herdervertretungsplan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452546240730-kmlo558oc3b4uk6siku90flo5aqdhr9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMc7IS5pHAqGYQWdlZG7gDH2SDHWMDHLE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
