@@ -195,6 +195,7 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
 
+    //Per Notebook Geaddet
 
 
 
